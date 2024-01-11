@@ -14,4 +14,3 @@ sudo apt install mono-vbnc
 $ chmod +x execute.sh
 $ ./execute.sh arquivo.vb
 ```
-
