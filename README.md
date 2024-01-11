@@ -5,9 +5,9 @@ Script para fazer o processo de compilação e execução de códigos VBA (Visua
 
 ## Instalações:
 ```bash
-sudo apt-get update
-sudo apt-get install mono-complete
-sudo apt install mono-vbnc
+$ sudo apt-get update
+$ sudo apt-get install mono-complete
+$ sudo apt install mono-vbnc
 ```
 ## Como usar
 ```bash
